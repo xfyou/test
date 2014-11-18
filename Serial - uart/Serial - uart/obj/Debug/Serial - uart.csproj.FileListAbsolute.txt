@@ -7,3 +7,12 @@ D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.csproj.GenerateResourc
 D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.exe
 D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.pdb
 D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.csprojResolveAssemblyReference.cache
+E:\Github\test\Serial - uart\Serial - uart\bin\Debug\Serial - uart.exe.config
+E:\Github\test\Serial - uart\Serial - uart\obj\Debug\Serial - uart.exe
+E:\Github\test\Serial - uart\Serial - uart\obj\Debug\Serial - uart.pdb
+E:\Github\test\Serial - uart\Serial - uart\bin\Debug\Serial - uart.exe
+E:\Github\test\Serial - uart\Serial - uart\bin\Debug\Serial - uart.pdb
+E:\Github\test\Serial - uart\Serial - uart\obj\Debug\Serial - uart.csprojResolveAssemblyReference.cache
+E:\Github\test\Serial - uart\Serial - uart\obj\Debug\Serial___uart.Form1.resources
+E:\Github\test\Serial - uart\Serial - uart\obj\Debug\Serial___uart.Properties.Resources.resources
+E:\Github\test\Serial - uart\Serial - uart\obj\Debug\Serial - uart.csproj.GenerateResource.Cache

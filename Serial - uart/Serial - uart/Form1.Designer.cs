@@ -44,13 +44,11 @@
             this.serialPort1 = new System.IO.Ports.SerialPort(this.components);
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button4 = new System.Windows.Forms.Button();
             this.setBox.SuspendLayout();
             this.SuspendLayout();
             // 
             // setBox
             // 
-            this.setBox.Controls.Add(this.button4);
             this.setBox.Controls.Add(this.button3);
             this.setBox.Controls.Add(this.button2);
             this.setBox.Controls.Add(this.button1);
@@ -71,7 +69,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(368, 40);
+            this.button3.Location = new System.Drawing.Point(536, 26);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
             this.button3.TabIndex = 4;
@@ -81,7 +79,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(449, 15);
+            this.button2.Location = new System.Drawing.Point(456, 26);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 3;
@@ -91,7 +89,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(368, 15);
+            this.button1.Location = new System.Drawing.Point(375, 26);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 3;
@@ -198,16 +196,6 @@
             this.textBox1.Size = new System.Drawing.Size(610, 339);
             this.textBox1.TabIndex = 2;
             // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(449, 40);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 4;
-            this.button4.Text = "发送测试";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button3_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -242,7 +230,6 @@
         private System.IO.Ports.SerialPort serialPort1;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button4;
     }
 }
 
