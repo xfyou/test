@@ -1,0 +1,9 @@
+D:\VS\Serial - uart\Serial - uart\bin\Debug\Serial - uart.exe.config
+D:\VS\Serial - uart\Serial - uart\bin\Debug\Serial - uart.exe
+D:\VS\Serial - uart\Serial - uart\bin\Debug\Serial - uart.pdb
+D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial___uart.Form1.resources
+D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial___uart.Properties.Resources.resources
+D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.csproj.GenerateResource.Cache
+D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.exe
+D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.pdb
+D:\VS\Serial - uart\Serial - uart\obj\Debug\Serial - uart.csprojResolveAssemblyReference.cache
